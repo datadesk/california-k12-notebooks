@@ -7,6 +7,8 @@ name = "pypi"
 jupyterlab = "*"
 pandas = "*"
 xlrd = "*"
+geopandas = "*"
+rtree = "*"
 
 [dev-packages]
 
