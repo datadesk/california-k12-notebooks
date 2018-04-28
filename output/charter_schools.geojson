@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "cds_code": "01100170112607", "name": "Envision Academy for Arts & Technology", "district": "Alameda County Office of Education", "street": "1515 Webster St.", "city": "Oakland", "county": "Alameda", "zipcode": "94612-3355", "is_charter": "Y", "funding_type": "Directly funded", "latitude": 37.80452, "longitude": -122.26815, "ownership": "High Schools (Public)", "instructional_level": "HS", "grades_served": "9-12", "low_grade_served": "9", "high_grade_served": "12" }, "geometry": { "type": "Point", "coordinates": [ -122.26815, 37.80452 ] } },
 { "type": "Feature", "properties": { "cds_code": "01100170123968", "name": "Community School for Creative Education", "district": "Alameda County Office of Education", "street": "2111 International Blvd.", "city": "Oakland", "county": "Alameda", "zipcode": "94606-4903", "is_charter": "Y", "funding_type": "Directly funded", "latitude": 37.784648, "longitude": -122.23863, "ownership": "Elementary Schools (Public)", "instructional_level": "ELEM", "grades_served": "K-8", "low_grade_served": "K", "high_grade_served": "8" }, "geometry": { "type": "Point", "coordinates": [ -122.23863, 37.784648 ] } },

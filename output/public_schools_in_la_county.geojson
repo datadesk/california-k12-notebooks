@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "cds_code": "19101990106880", "name": "Jardin de la Infancia", "district": "Los Angeles County Office of Education", "street": "307 East Seventh St.", "city": "Los Angeles", "county": "Los Angeles", "zipcode": "90014-2209", "is_charter": "Y", "funding_type": "Directly funded", "latitude": 34.04246, "longitude": -118.24912, "ownership": "Elementary Schools (Public)", "instructional_level": "ELEM", "grades_served": "K-1", "low_grade_served": "K", "high_grade_served": "1" }, "geometry": { "type": "Point", "coordinates": [ -118.24912, 34.04246 ] } },
 { "type": "Feature", "properties": { "cds_code": "19101990109660", "name": "Aspire Antonio Maria Lugo Academy", "district": "Los Angeles County Office of Education", "street": "6100 Carmelita Ave.", "city": "Huntington Park", "county": "Los Angeles", "zipcode": "90255-4138", "is_charter": "Y", "funding_type": "Directly funded", "latitude": 33.984203, "longitude": -118.19659, "ownership": "Elementary Schools (Public)", "instructional_level": "ELEM", "grades_served": "K-5", "low_grade_served": "K", "high_grade_served": "5" }, "geometry": { "type": "Point", "coordinates": [ -118.19659, 33.984203 ] } },
